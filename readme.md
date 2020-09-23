@@ -1,6 +1,6 @@
 #training_repo
 
-A repo for learning Git. asdf asd;lkfj
+A repo for learning Git. 
 
 # Chapter 1
 
